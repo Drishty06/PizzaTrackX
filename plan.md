@@ -1,13 +1,13 @@
-- [ ] Create directory structure
-- [ ] Create a NPM project and install 
-- [ ] all dependancies
-    - [ ] Dependancies
-        - [ ] express
-        - [ ] ejs express-ejs-layouts
-    - [ ] Dev dependancies
-        - [ ] nodemon
-- [ ] Create Express server - Create a server.js file
-- [ ] Git setup and first commit
+- [x] Create directory structure
+- [x] Create a NPM project and install 
+- [x] all dependancies
+    - [x] Dependancies
+        - [x] express
+        - [x] ejs express-ejs-layouts
+    - [x] Dev dependancies
+        - [x] nodemon
+- [x] Create Express server - Create a server.js file
+- [x] Git setup and first commit
 - [ ] Install Laravel Mix
     - [ ] setup js and scss
 - [ ] Install tailwind css
