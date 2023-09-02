@@ -8,9 +8,9 @@
         - [x] nodemon
 - [x] Create Express server - Create a server.js file
 - [x] Git setup and first commit
-- [ ] Install Laravel Mix
-    - [ ] setup js and scss
-- [ ] Install tailwind css
+- [x] Install Laravel Mix
+    - [x] setup js and scss
+- [x] Install tailwind css
 - [ ] Create Home page using Html and Css
 - [ ] Create Cart page
     - [ ] order summary section
